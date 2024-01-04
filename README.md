@@ -17,7 +17,7 @@ ChatGPT clone with added features
 
 - Node JS
 - npm
-- [Create Open AI account](https://beta.openai.com/signup/)
+- [Create Clerk project and add GitHub and Google as authentication methods](https://clerk.com/)
 
 ## Setup
 
@@ -33,6 +33,8 @@ git clone https://github.com/satakshigarg/ChatGPT.git
 cd ChatGPT
 npm install
 ```
+
+3. Create a .env file in root folder and add your CLERK_PUBLISHABLE_KEY
 
 ## Usage
 
